@@ -1,0 +1,6 @@
+   This is a simple text        file   .
+   It will be used      by my programs f  or     input test.    
+
+   \For Replacement Ex 1.10
+   This is a test	tabbed.
+   \ baclash.
