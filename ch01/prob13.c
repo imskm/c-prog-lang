@@ -1,10 +1,16 @@
 #include<stdio.h>
 
+/**
+ * Write a program to print a histogram of the lengths of words in its input.
+ * It is easy to draw histogram with the bars horizontal; a vertical
+ * orientation is more challening.
+ */
+
 #define OUT 0
 #define IN 1
 #define RANGE 5
 #define ARR_SIZE 10
-#define FACTORIZEBY 100
+#define FACTORIZEBY 1
 
 int main()
 {
